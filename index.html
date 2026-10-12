@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Начальный проект</title>
+        <link rel="stylesheet" href="./main.css" />
+    </head>
+    <body>
+        <main class="container">
+            <section class="wrapper">
+                <form id="form" method="post">
+                    <label for="title-input">Введите названтя товара</label>
+                    <input
+                        id="title-input"
+                        type="text"
+                    />
+                    <label for="price-input">Введите цену товара</label>
+                    <input
+                        id="price-input"
+                        type="number"
+                    />
+                    <label for="description-texrea">Введите описание товара</label>
+                    <textarea
+                        name=""
+                        id="description-texrea"
+                    >
+                    </textarea>
+                    <button type="submit">создать товар</button>
+                </form>
+            </section>
+            <section class="wrapper" id="content"></section>
+        </main>
+
+        <script src="./main.js"></script>
+    </body>
+</html>

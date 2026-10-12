@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "title": "we",
+      "price": "123",
+      "description": "          qwe          ",
+      "id": "Bmm3WUW7jl4"
+    },
+    {
+      "title": "sdasdasd",
+      "price": "12",
+      "description": "             adasdad       ",
+      "id": "gP0Np-7dpVo"
+    },
+    {
+      "title": "sd",
+      "price": "121",
+      "description": "                    asdsd",
+      "id": "J1EhP2Vcl0U"
+    },
+    {
+      "title": "12",
+      "price": "111",
+      "description": "                    SDASDAD",
+      "id": "4jXdm6HU8sw"
+    },
+    {
+      "title": "adasd",
+      "price": "123",
+      "description": "                    asdadasd",
+      "id": "jEAqLks9ng0"
+    },
+    {
+      "title": "dfsf",
+      "price": "1234",
+      "description": "         sdasdasda           ",
+      "id": "OmuMifESRbA"
+    },
+    {
+      "title": "",
+      "price": "",
+      "description": "                    ",
+      "id": "LROETaie-ac"
+    },
+    {
+      "title": "",
+      "price": "",
+      "description": "                    ",
+      "id": "V5xnWjYHxWE"
+    },
+    {
+      "title": "",
+      "price": "",
+      "description": "                    ",
+      "id": "6x--Unys9SU"
+    },
+    {
+      "title": "",
+      "price": "",
+      "description": "                    ",
+      "id": "XNA8-q0dSN4"
+    },
+    {
+      "title": "",
+      "price": "",
+      "description": "                    ",
+      "id": "7x6Y_wtvHpc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

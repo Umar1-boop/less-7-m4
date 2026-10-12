@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: #252525;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 50px auto;
+    color: gold;
+    display: flex;
+    gap: 24px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+input, textarea , button{
+    border: solid 0.75px gold;
+    background-color: transparent;
+    color: gold;
+    padding: 12px 8px;
+    min-width: 100%;
+}
+
+button{
+    cursor: pointer;
+}
+
+input, textarea:focus{
+    outline: none;
+}
+
+.wrapper{
+    flex: 1;
+    border: solid 0.75px gold;
+    padding: 32px 24px;
+    border-radius: 8px;
+}
